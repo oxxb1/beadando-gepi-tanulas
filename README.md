@@ -59,17 +59,17 @@ A modell jól generalizál, a validációs és teszt eredmények közel azonosak
 A részletes kiértékeléshez tanulási görbék és konfúziós mátrix is készült.
 
 ---
-'''
-## Projekt struktúra
-beadando_gepi_tanulas/
-├── adatok/        # Adatfájlok
-├── jegyzetek/     # Jupyter notebook
-├── kepek/         # Kimeneti ábrák (pontosság, veszteség, konfúziós mátrix)
-├── modell/        # Elmentett neurális háló modell
-├── venv_beadando/ # Virtuális környezet
-└── README.md
-'''
 
+## Projekt struktúra
+```
+beadando_gepi_tanulas/
+├── adatok/ # Adatfájlok
+├── jegyzetek/ # Jupyter notebook
+├── kepek/ # Kimeneti ábrák (pontosság, veszteség, konfúziós mátrix)
+├── modell/ # Elmentett neurális háló modell
+├── venv_beadando/ # Virtuális környezet (nem verziókezelt)
+└── README.md
+```
 ---
 
 ## Futtatás
