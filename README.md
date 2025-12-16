@@ -17,7 +17,7 @@ Az adathalmaz a Kaggle oldalról származik:
 - Dataset neve: *Secondhand car market data parsing dataset*
 - Forrás: https://www.kaggle.com/datasets/attilakiss/secondhand-car-market-data-parsing-dataset-v1
 
-A projekt során a fő hirdetési táblát használtuk, amely tartalmazza többek között:
+A projekt során a fő hirdetési táblát használtam, amely tartalmazza többek között:
 - gyártási évet
 - futásteljesítményt
 - motoradatokat
