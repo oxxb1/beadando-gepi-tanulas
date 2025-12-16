@@ -63,11 +63,11 @@ A részletes kiértékeléshez tanulási görbék és konfúziós mátrix is ké
 ## Projekt struktúra
 ```
 beadando_gepi_tanulas/
-├── adatok/ # Adatfájlok
-├── jegyzetek/ # Jupyter notebook
-├── kepek/ # Kimeneti ábrák (pontosság, veszteség, konfúziós mátrix)
-├── modell/ # Elmentett neurális háló modell
-├── venv_beadando/ # Virtuális környezet (nem verziókezelt)
+├── adatok/         # Adatfájlok
+├── jegyzetek/      # Jupyter notebook
+├── kepek/          # Kimeneti ábrák (pontosság, veszteség, konfúziós mátrix)
+├── modell/         # Elmentett neurális háló modell
+├── venv_beadando/  # Virtuális környezet (nem verziókezelt)
 └── README.md
 ```
 ---
