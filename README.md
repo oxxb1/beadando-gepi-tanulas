@@ -59,7 +59,7 @@ A modell jól generalizál, a validációs és teszt eredmények közel azonosak
 A részletes kiértékeléshez tanulási görbék és konfúziós mátrix is készült.
 
 ---
-
+'''
 ## Projekt struktúra
 beadando_gepi_tanulas/
 ├── adatok/        # Adatfájlok
@@ -68,7 +68,7 @@ beadando_gepi_tanulas/
 ├── modell/        # Elmentett neurális háló modell
 ├── venv_beadando/ # Virtuális környezet
 └── README.md
-
+'''
 
 ---
 
